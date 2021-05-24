@@ -1,0 +1,73 @@
+body{
+    text-align:center;
+}
+html{
+    background-color:aquamarine;
+}
+.line{
+    height:6px;
+    width:300px;
+    background-color:black;
+    margin:5px auto;
+}
+#Plasticbagfreeday{
+    height:600px;
+    transform:rotate(350deg);
+    margin-top:100px;
+    margin-right:400px;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#saveourseas{
+    height:250px; 
+    transform:rotate(370deg);
+    margin-left:690px;
+    margin-top:100upx;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#earthcoughing{
+    height:270px;
+    transform:rotate(350deg);
+    margin-right:600px;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#plastic{
+    height:270px;
+    transform:rotate(370deg);
+    margin-left:600px;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#people{
+    height:270px;
+    transform:rotate(350deg);
+    margin-right:600px;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#plastic2{
+    height:270px;
+    transform:rotate(370deg);
+    margin-left:600px;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#saynoplastic{
+    height:270px;
+    transform:rotate(350deg);
+    margin-right:600px;
+        border:5px solid white;
+    padding:10px;
+    border-width: thick;
+}
+#RYANLOGO{
+    height:200px;
+}
